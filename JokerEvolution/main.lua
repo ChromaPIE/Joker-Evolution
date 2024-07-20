@@ -19,8 +19,8 @@ JokerEvolution = {}
 JokerEvolution.evolutions = {}
 
 function JokerEvolution_Mod.process_loc_text()
-	G.localization.misc.dictionary["k_evolution_ex"] = "Evolution!"
-	G.localization.misc.dictionary["b_evolve"] = "EVOLVE"
+	G.localization.misc.dictionary["k_evolution_ex"] = "进化！"
+	G.localization.misc.dictionary["b_evolve"] = "进化"
     G.localization.descriptions.Other.modified_card = {
         name = "Modified",
         text = {

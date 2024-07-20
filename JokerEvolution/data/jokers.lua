@@ -126,10 +126,10 @@ SMODS.Joker{
 	cost = 8,
 	config = {extra = 3},
 	loc_txt = {
-		name = "Bordel the Buffon",
+		name = "丑角波戴",
 		text = {
-			"{C:green}Rerolls{} are refunded",
-			"{C:inactive}(Currently {C:green}#1#{C:inactive})"
+			"{C:green}重掷{}全额退款",
+			"{C:inactive}（当前可用{C:green}#1#{C:inactive}次）"
 		}
 	},
 	loc_vars = function(self, info_queue, card)

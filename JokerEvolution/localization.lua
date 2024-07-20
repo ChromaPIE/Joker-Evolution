@@ -2,74 +2,73 @@ local process_loc_textref = JokerEvolution_Mod.process_loc_text
 function JokerEvolution_Mod.process_loc_text()
     process_loc_textref()
     G.localization.descriptions.Other.je_j_space = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Upgrade {C:attention}#2#{} poker hands",
+			"升级{C:attention}#2#{}次牌型",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_seance = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Score {C:attention}#2# Straight Flush",
+			"打出{C:attention}#2#{}手{C:attention}同花顺{}并计分",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_chaos = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Reroll {C:attention}#2#{} times",
+			"重掷{C:attention}#2#{}次",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_obelisk = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Evolve {C:attention}#2#{} card",
+			"使{C:attention}#2#{}张牌成功进化",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_luchador = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Defeat {C:attention}#2#{} boss blinds",
+			"击败{C:attention}#2#{}个Boss盲注",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_cartomancer = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Use {C:attention}#2#{} {C:purple}Tarot{} cards",
+			"使用{C:attention}#2#{}张{C:purple}塔罗牌",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_loyalty_card = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Score twice",
-            "the blind goal",
-            "{C:attention}#2#{} times",
+			"以两倍于最低要求的得分",
+            "击败{C:attention}#2#{}个盲注",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_raised_fist = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Score {C:attention}#2#{} cards",
+			"打出{C:attention}#2#{}张牌并计分",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_cloud_9 = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Score {C:attention}#2# 9{}s cards",
+			"打出{C:attention}#2#{}张{C:attention}9{}并计分",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
     G.localization.descriptions.Other.je_j_diet_cola = {
-        name = "Evolution",
+        name = "进化",
         text = {
-			"Skip {C:attention}#2#{} blinds",
+			"跳过{C:attention}#2#{}个盲注",
 			"{C:inactive}({C:attention}#1#{C:inactive}/#2#)"
 		}
     }
