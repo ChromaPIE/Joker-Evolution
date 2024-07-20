@@ -73,4 +73,5 @@ function JokerEvolution_Mod.process_loc_text()
 		}
     }
 end
+
 return
